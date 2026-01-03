@@ -29,9 +29,8 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 
 ## 📬 Contact & Portfolio
 
-- 📧 Email : [dudxo3295@naver.com](mailto:dudxo3295@naver.com)
-- 📋 Resume : [이력서 (PDF)](https://drive.google.com/drive/folders/15BgJDxZjc2GKpqLla6cACF6J6kWHq5LY?usp=sharing)
-- 📂 Portfolio : [포트폴리오 (PDF)](https://drive.google.com/drive/folders/19zUJQ7xHBCbFr_j09ZV-TStAbRtocMdM?usp=sharing)
+- 📧 Email : [djlimjimmydj@gmail.com](mailto:djlimjimmydj@gmail.com)
+- 📂 Portfolio : [포트폴리오 (Notion)](https://diagnostic-sandwich-f3d.notion.site/1d0a970704a2809c8110edc8b2e2cbac?source=copy_link)
 
 ---
 
@@ -39,18 +38,17 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 
 | 기간 | 소속 |
 | --- | --- |
-| 2019.02 - 2025.02 | 남서울대학교 컴퓨터소프트웨어학과 |
+| 2020.03 - 2026.02 | 건국대학교 컴퓨터공학부 |
 
 ---
 
 ## 💡 Experience
 
-| 기간 | 소속 | 프로젝트 | 성과 |
-| --- | --- | --- | --- |
-| 2025.01 - 2025.08 | LG U+ 유레카 백엔드 개발자 과정 2기 | [U-Fit](https://github.com/dudxo/URECA-UFit)<br/>[반딧불](https://github.com/UDT-Uplus-Dream-Team/UDT-be) | 종합 프로젝트 경진대회 우수상(2위) |
-| 2024.07 - 2024.08 | 개발자X디자이너 11기 Backend | [공무인](https://github.com/dnd-side-project/dnd-11th-3-backend) | 최종 발표회 2위 |
-| 2024.01 - 2024.04 | 남서울대학교 교내 축제 정보 플랫폼 | [NSU Festival](https://github.com/dudxo/NSU_Festival) | 5일 누적 사용자 약 4,000명 |
-| 2023.01 - 2023.12 | 멋쟁이사자처럼 대학 11기 | [국민학교](https://github.com/Like-Lion-NSU/Elementary_School) | SW융합클러스터 2.0 DX 해커톤 대상 |
+| 기간 | 소속 | 프로젝트/역할 |
+| --- | --- | --- |
+| 2025.09 - 2026.09 | GDGOC 건국대학교 | 서버파트 부원 |
+| 2025.01 - 2025.08 | LG U+ 유레카 백엔드 개발자 과정 2기 | [Uhyu](https://github.com/U-Final) [Uplait](https://github.com/U-plait) 백엔드 개발(팀장) |
+| 2024.03 - 2024.08 | 건국대학교 IT동아리 KUIT | [REMETIC](https://github.com/djlim00/REMETIC_SERVER)[서버파트 부원 |
 
 ---
 
@@ -65,12 +63,19 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 
 ## 🛠 Tech Stack
 
-### Backend
+### Web Framework
 ![Java](https://img.shields.io/badge/Java-17-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Extensions / Spatial / Vector
+![PostGIS](https://img.shields.io/badge/PostGIS-Spatial-2E7D32?style=flat)
+![pgvector](https://img.shields.io/badge/pgvector-Vector_Search-6A5ACD?style=flat)
 
 ### DevOps / Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -92,4 +97,4 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 
 ## 📊 Stats
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudxo3295)](https://solved.ac/profile/djlim00)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djlim00)](https://solved.ac/profile/djlim00)  
