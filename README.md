@@ -1,29 +1,25 @@
 # 👋 안녕하세요, 백엔드 엔지니어 임동준입니다
 
-Java / Spring Boot 기반의 서버 개발과  
-AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경험하며  
-실제 사용자에게 가치를 전달하는 서비스를 만들어 왔습니다.
+Java / Spring Boot와 AWS 환경에서  
+MVP 개발 → 배포 → 운영 → 개선 과정을 경험하며  
+빠른 배포와 실 사용자 기반의 프로덕트 성장을 지향합니다.
 
-기능 구현에 그치지 않고,  
-운영 중 발생하는 문제를 **로그·지표·구조 관점에서 분석**하고  
-지속적으로 개선하는 개발 방식을 지향합니다.
 
-- **운영 안정성 개선**  
-  ELK + MDC Filter 기반 로깅·모니터링 환경 구축  
-  → 평균 장애 추적 시간 **20분 → 5분 단축**
 
-- **성능 최적화 경험**  
-  Spring ↔ FastAPI 서버 통신 구조를  
-  동기 방식에서 비동기 처리로 개선  
-  → 평균 응답 속도 **24% 향상**
+- **성능 최적화**  
+  PostGIS 기반 지도 반경 조회 로직을 개선하여  
+  쿼리 구조 및 인덱스 활용 방식 최적화  
+  → 전체 조회 응답 시간 **301ms → 41ms (약 7.5배 개선)**
 
-- **협업 중심 개발**  
-  코드 리뷰와 문서화를 통해  
-  팀 내 공통 코드 스타일 및 품질 기준 정립
+- **인프라 설계 및 운영**  
+  AWS EC2 + ELB 기반으로 서비스 인프라를 직접 설계·구성하고  
+  Docker 컨테이너 기반 배포 환경을 구축  
+  → GitHub Actions를 활용한 무중단 배포 파이프라인 운영
 
-현재는 **동료가 이해하기 쉬운 코드**,  
-그리고 **운영 환경에서 신뢰할 수 있는 서버**를 목표로 개발하고 있으며  
-기술이 실제 서비스 가치로 이어지는 프로덕트를 만들 준비가 되어 있습니다.
+- **협업 역량** : 애자일 스크럼(Jira활용), Github
+
+현재는 **새로운 기술에 대한 도전** 그리고 **운영 환경에서 신뢰할 수 있는 서버**를 목표로 개발하고 있으며  
+사람들의 삶에 녹아드는 기술을 만들고 싶습니다.
 
 ---
 
@@ -32,7 +28,7 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 - 📧 Email : [djlimjimmydj@gmail.com](mailto:djlimjimmydj@gmail.com)
 - 📂 Portfolio : [포트폴리오 (Notion)](https://diagnostic-sandwich-f3d.notion.site/1d0a970704a2809c8110edc8b2e2cbac?source=copy_link)
 
----
+
 
 ## 🎓 Education
 
@@ -40,7 +36,6 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 | --- | --- |
 | 2020.03 - 2026.02 | 건국대학교 컴퓨터공학부 |
 
----
 
 ## 💡 Experience
 
@@ -50,7 +45,7 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 | 2025.01 - 2025.08 | LG U+ 유레카 백엔드 개발자 과정 2기 | [Uhyu](https://github.com/U-Final) [Uplait](https://github.com/U-plait) 백엔드 개발(팀장) |
 | 2024.03 - 2024.08 | 건국대학교 IT동아리 KUIT | [REMETIC](https://github.com/djlim00/REMETIC_SERVER)[서버파트 부원 |
 
----
+
 
 ## 📜 Certificates
 
@@ -59,7 +54,6 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 | SQLD | SQL개발자 | 2025.12 | 한국데이터산업진흥원 |
 | OPIC | IH | 2025.09 | ACTFL |
 
----
 
 ## 🛠 Tech Stack
 
@@ -93,7 +87,6 @@ AWS 환경에서 **MVP 구현 → 운영 → 성능 개선** 전 과정을 경�
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
----
 
 ## 📊 Stats
 
